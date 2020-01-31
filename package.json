@@ -1,0 +1,20 @@
+{
+  "name": "fullstack-nest-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:back": "cd blog-backend-nestjs && npm run start:dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seromarin/full-stack-blog-v1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seromarin/full-stack-blog-v1/issues"
+  },
+  "homepage": "https://github.com/seromarin/full-stack-blog-v1#readme"
+}
